@@ -2,4 +2,5 @@
 Practice collaboration
 
 Author: Hannah Bender
-BU
+BU (Boston University)
+
